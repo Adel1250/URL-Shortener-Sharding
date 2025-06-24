@@ -143,7 +143,3 @@ Adel Ashraf
 ## 📜 License
 
 MIT License – use freely, learn a lot.
-
----
-
-Let me know if you want this turned into a GitHub README with badges or if you're planning to publish it!
